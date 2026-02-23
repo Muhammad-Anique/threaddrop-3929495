@@ -9,7 +9,7 @@ Tasks:
 4. [x] **Create root layout** — app/layout.tsx (HTML structure, metadata, fonts) | Commit: `feat: add root layout`
 5. [x] **WhatsApp CTA component** — components/WhatsAppCTA.tsx, link: https://wa.me/923204589040 | Commit: `feat: add WhatsApp CTA`
 6. [x] **Hero component** — components/Hero.tsx (intro, "Notify Me" CTA, streetwear typography) | Commit: `feat: add hero section`
-7. [ ] **ProductShowcase component** — components/ProductShowcase.tsx (T-shirt grid, next/image) | Commit: `feat: add product showcase`
+7. [x] **ProductShowcase component** — components/ProductShowcase.tsx (T-shirt grid, next/image) | Commit: `feat: add product showcase`
 8. [ ] **LeadForm component** — components/LeadForm.tsx (Name, Email fields, Supabase `leads` table insert) | Commit: `feat: add lead capture form`
 9. [ ] **Assemble Main Page** — app/page.tsx (Hero, ProductShowcase, LeadForm, WhatsAppCTA) | Commit: `feat: assemble landing page`
 10. [ ] **Navigation and Footer** — components/Navbar.tsx, components/Footer.tsx (minimalist branding) | Commit: `feat: add nav and footer`
