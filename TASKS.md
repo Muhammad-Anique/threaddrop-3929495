@@ -12,5 +12,5 @@ Tasks:
 7. [x] **ProductShowcase component** — components/ProductShowcase.tsx (T-shirt grid, next/image) | Commit: `feat: add product showcase`
 8. [x] **LeadForm component** — components/LeadForm.tsx (Name, Email fields, Supabase `leads` table insert) | Commit: `feat: add lead capture form`
 9. [x] **Assemble Main Page** — app/page.tsx (Hero, ProductShowcase, LeadForm, WhatsAppCTA) | Commit: `feat: assemble landing page`
-10. [ ] **Navigation and Footer** — components/Navbar.tsx, components/Footer.tsx (minimalist branding) | Commit: `feat: add nav and footer`
+10. [x] **Navigation and Footer** — components/Navbar.tsx, components/Footer.tsx (minimalist branding) | Commit: `feat: add nav and footer`
 11. [ ] **Write README** — project title, features (lead capture, WhatsApp), tech stack, structure tree, env vars, Vercel deploy | Commit: `docs: add comprehensive README`
