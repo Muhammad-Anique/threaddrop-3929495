@@ -15,10 +15,9 @@ yarn-error.log*
 dist/
 
 # Env & OS
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
 .DS_Store
 Thumbs.db
+config.bat
